@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package>
   <name>manipulation_msgs</name>
-  <version>0.2.0</version>
+  <version>0.2.1</version>
   <description>The manipulation_msgs package</description>
 
-  <maintainer email="jbinney@willowgarage.com">Jon Binney</maintainer>
-
+  <maintainer email="jon.binney@gmail.com">Jon Binney</maintainer>
+  <maintainer email="130s@2000.jukuin.keio.ac.jp">Isaac I. Y. Saito</maintainer>
 
   <license>BSD</license>
 
