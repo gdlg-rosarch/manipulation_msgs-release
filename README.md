@@ -1,3 +1,26 @@
+## manipulation_msgs (kinetic) - 0.2.1-0
+
+The packages in the `manipulation_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic manipulation_msgs` on `Wed, 20 Jul 2016 13:08:37 -0000`
+
+The `manipulation_msgs` package was released.
+
+Version of package(s) in repository `manipulation_msgs`:
+
+- upstream repository: https://github.com/ros-interactive-manipulation/manipulation_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## manipulation_msgs (jade) - 0.2.0-0
 
 The packages in the `manipulation_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release -r jade -t jade manipulation_msgs` on `Wed, 13 May 2015 07:11:19 -0000`
